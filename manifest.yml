@@ -1,0 +1,5 @@
+ applications:
+- name: chat_app_ih_mr_final
+  memory: 512M
+  instances: 1
+
